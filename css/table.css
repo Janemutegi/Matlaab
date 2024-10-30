@@ -1,0 +1,28 @@
+body{
+    border: 10px;
+
+}
+table{
+    border-bottom-width: medium;
+     width: 70%;
+            height: 300px;
+            margin: auto;
+}
+table,th,td{
+            border: 2px solid black;
+    td img{
+        height: 70px;
+    }
+
+}
+img{
+            width: 100px;
+            height: 150px;
+            margin-left: 30px;
+    margin-right: 30px;
+    display: block;
+    border-radius: 30%;
+        }
+td{
+            padding-left: 150px;
+        }
